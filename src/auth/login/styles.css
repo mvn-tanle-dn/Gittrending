@@ -1,0 +1,53 @@
+.register-page{
+  margin-top: 10%;
+}
+
+.section-register{
+  text-align: center;
+  width: 40%;
+  margin: 0 auto;
+}
+
+.btn-register{
+  background-color: #204863;
+  color: white;
+  transition: 0.4s;
+  padding: 10px 25px;
+  border-radius: 10px !important;
+}
+
+.btn-register:hover{
+  color: #F4F4F4;
+  background-color: #4794c7;
+}
+
+.header-left{
+  position: relative;
+}
+
+.form-btn{
+  position: absolute;
+  left: 45px;
+}
+
+
+/* .register-form{
+  width: 40%;
+  margin: auto;
+} */
+
+/* .register-form .input-form{
+  padding-left: 0;
+} */
+
+/* .input-form input{
+  width: 60%;
+} */
+
+/* .register-form label{
+  padding-right: 0;
+} */
+
+/* .float-right{
+  display: none;
+} */
